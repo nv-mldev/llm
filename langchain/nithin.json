@@ -1,0 +1,265 @@
+{
+    "success": true,
+    "credits_left": 100,
+    "rate_limit_left": 100,
+    "person": {
+      "publicIdentifier": "nithin-vadekkapat-7a089824",
+      "linkedInIdentifier": "ACoAAAUdM2gB8f4LQlu8rpMXbmvs7afKZzfRClk",
+      "memberIdentifier": "85799784",
+      "linkedInUrl": "https://www.linkedin.com/in/nithin-vadekkapat-7a089824",
+      "firstName": "Nithin",
+      "lastName": "Vadekkapat",
+      "headline": "AI Research and Product Management",
+      "location": "New Delhi, Delhi, India",
+      "summary": "I have fifteen years of experience in employing Computer Vision, Signal Processing and Machine Learning for client-centric, value-driven solutions. My experience includes founding a Machine Vision start-up,  being the VP-Engineering for a Sequoia funded startup in developing a SAS platform for Computer Vision  as well as ADAS and Medical Imaging . I am also enthusiastic about mentoring bright, young minds for adapting and envisaging innovative solutions in the field. \n\nMy core competencies include  : \nTeam Building and Development  \nTechnical Architecture\nComputer Vision\nMachine Learning/ Deep Learning \nSignal Processing\nEdge Computing\nApplied Mathematics",
+      "photoUrl": null,
+      "backgroundUrl": null,
+      "openToWork": false,
+      "premium": false,
+      "showVerificationBadge": false,
+      "creationDate": {
+        "month": 9,
+        "year": 2010
+      },
+      "followerCount": 1933,
+      "positions": {
+        "positionsCount": 7,
+        "positionHistory": [
+          {
+            "title": "Director, Research",
+            "companyName": "Dhvani Analytic Intelligence",
+            "companyLocation": "Chennai, Tamil Nadu, India",
+            "description": "We develop enterprise-grade manufacturing AI systems and edge-deployed AI stacks tailored for SMEs, enabling faster deployment of defect detection applications. Our solutions support knowledge digitization, digital twins, and visual inspection using multimodal transformers, self-supervised learning, and CNNs.\nWe work with imaging modalities such as X-ray, thermal, microwave, visible spectrum, and ultrasound.\nOur technology is applied across industries including semiconductors, oil and gas, automotive, aerospace, shipbuilding, railways, and defense.",
+            "startEndDate": {
+              "start": {
+                "month": 8,
+                "year": 2021
+              },
+              "end": null
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEMsonZHnU0iw/company-logo_400_400/company-logo_400_400/0/1686904538074/dhvani_analytic_intelligence_logo?e=1749686400&v=beta&t=L8pYD5aSpPx0WZr3z7sCGzBxxY0Z6-DXRpVV-onGqjc",
+            "linkedInUrl": "https://www.linkedin.com/company/74138356/",
+            "linkedInId": "74138356"
+          },
+          {
+            "title": "Vice President Product Engineering",
+            "companyName": "Wobot.ai",
+            "companyLocation": "New Delhi, Delhi, India",
+            "description": "",
+            "startEndDate": {
+              "start": {
+                "month": 10,
+                "year": 2020
+              },
+              "end": {
+                "month": 6,
+                "year": 2021
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFbHu_qNnhX7Q/company-logo_400_400/company-logo_400_400/0/1630645688858/wobot_ai_logo?e=1749686400&v=beta&t=ie0tDhvmOGzXkXsUlGt3axaN4NsJr3HJkeEqq56BL_w",
+            "linkedInUrl": "https://www.linkedin.com/company/13654015/",
+            "linkedInId": "13654015"
+          },
+          {
+            "title": "Head - New Product Development - Machine Vision",
+            "companyName": "Jekson Vision",
+            "companyLocation": "Ahmedabad, Gujarat, India",
+            "description": "",
+            "startEndDate": {
+              "start": {
+                "month": 7,
+                "year": 2020
+              },
+              "end": {
+                "month": 10,
+                "year": 2020
+              }
+            },
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEENKWs2_Ky7g/company-logo_400_400/company-logo_400_400/0/1630665703070/jekson_usa_inc__logo?e=1749686400&v=beta&t=I6HdxQA1YPmXtSBGsuyn7CBY7GyHdiaA7Nfa9XhsSkQ",
+            "linkedInUrl": "https://www.linkedin.com/company/3663167/",
+            "linkedInId": "3663167"
+          },
+          {
+            "title": "CTO",
+            "companyName": "Yantra AI Technologies",
+            "companyLocation": "Pune Area, India",
+            "description": "A venture backed start-up working in edge based deep learning solutions for\n• industrial inspection\n• robotic perception\n• video analytics\n• activity recognition\n• predictive control\nResponsibilities\n• Actively engage with customer , understand the usecases and develop solutions with our edge\nframework\n• Build and carry out product development vision\n• Select and evaluate software architecture, SoC’s, ML frameworks and cloud frame works for\nbuilding an edge AI product\n• Build a product team comprising ML engineers, embedded system engineers, cloud, UI and\napplication engineers\n• Train the team on agile product development, ML fundamentals , applied mathematics and data\nprocessing\n• Released edge based beta product based on Nvidia SoC’s for industrial inspection, robotic percep-\ntion and human activity recognition\n• Work along with product owner in designing algorithms, model and validate the use cases and\nmap the same to yantraai propritery framework\n• Supervise the deployment of product poc’s on the client floor\nAchievements\n•  IP’s\n– An embedded deep learning software and hardware architecture for industrial inspection using\nARM SoC\n– An embedded sotware and hardware architecture for human robot collabaration using camera\narrays\n– An embedded software and hardware architecture for human action recognition using a monoc-\nular camera",
+            "startEndDate": {
+              "start": {
+                "month": 3,
+                "year": 2018
+              },
+              "end": {
+                "month": 5,
+                "year": 2020
+              }
+            },
+            "contractType": "Full-time",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQEmQ4Vfd22AkQ/company-logo_400_400/company-logo_400_400/0/1630593217000?e=1749686400&v=beta&t=Hz1rLzYr14dwq_VdmB3pA_qA45lWn4j2c3A9y2UeiOk",
+            "linkedInUrl": "https://www.linkedin.com/company/14517128/",
+            "linkedInId": "14517128"
+          },
+          {
+            "title": "CEO & Founder",
+            "companyName": "CastaliaLabs",
+            "companyLocation": "Pune, Maharashtra, India",
+            "description": "",
+            "startEndDate": {
+              "start": {
+                "month": 6,
+                "year": 2013
+              },
+              "end": {
+                "month": 2,
+                "year": 2018
+              }
+            },
+            "companyLogo": null,
+            "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=CastaliaLabs"
+          },
+          {
+            "title": "Senior Engineer: ADAS",
+            "companyName": "Tata Elxsi : Jaguar and Land Rover ODC",
+            "description": "Research and Development of Computer Vision Algorithms for Driver Assistance Systems for Jaguar and Land Rover . Worked as a senior engineer in JLR Off Shore Development centre . As a part of the team helped in development of Lane departure warning , Pedestrian detection , 3D surround vision, Terrain mapping, Obstacle and object detection modules. Worked with Support vector machines , Neural networks , wavelets and sparse repersentations",
+            "startEndDate": {
+              "start": {
+                "month": 12,
+                "year": 2010
+              },
+              "end": {
+                "month": 3,
+                "year": 2013
+              }
+            },
+            "companyLogo": null,
+            "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Tata+Elxsi+%3A+Jaguar+and+Land+Rover+ODC"
+          },
+          {
+            "title": "Computer Vision Research Engineer",
+            "companyName": "QuEST Global",
+            "companyLocation": "Trivandrum",
+            "description": "Development of Image Processing algorithms which includes Medical Image denoising, 3D surface reconstruction. Developed a novel algorithm for the de-noising of ultrasound images using sparse representation. The image is represented as a sparse with respect to a overcomplete  dictionary.\n\nDeveloped a multi view stereo pipe line for 3D scanner ",
+            "startEndDate": {
+              "start": {
+                "month": 9,
+                "year": 2009
+              },
+              "end": {
+                "month": 12,
+                "year": 2010
+              }
+            },
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFqsywUQl7okA/company-logo_400_400/company-logo_400_400/0/1650955890222/quest_global_logo?e=1749686400&v=beta&t=RoikCm_7rFt97bzc3MXOpFfPnRRruUlYXOeHTYUmffY",
+            "linkedInUrl": "https://www.linkedin.com/company/222111/",
+            "linkedInId": "222111"
+          }
+        ]
+      },
+      "schools": {
+        "educationsCount": 1,
+        "educationHistory": [
+          {
+            "degreeName": "Master of Technology (M.Tech.)",
+            "fieldOfStudy": "Machine/Computer Vision",
+            "linkedInUrl": "https://www.linkedin.com/company/1483508/",
+            "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHKfUkGpKRKEw/company-logo_400_400/company-logo_400_400/0/1631314535143?e=1749686400&v=beta&t=04iCYrnDyT5sXNnsyE6aHoaxL2OIPXxzcXnZ1L1oyOc",
+            "schoolName": "University of Kerala",
+            "startEndDate": {
+              "start": {
+                "month": 1,
+                "year": 2008
+              },
+              "end": {
+                "month": 1,
+                "year": 2010
+              }
+            }
+          }
+        ]
+      },
+      "skills": [
+        "Computer Vision",
+        "Image Processing",
+        "Algorithms",
+        "Signal Processing",
+        "Machine Vision",
+        "Matlab",
+        "Digital Signal Processors",
+        "Software Development",
+        "Software Engineering",
+        "OpenCV",
+        "Statistical Signal Processing",
+        "Machine Learning",
+        "Python",
+        "Numerical Linear Algebra",
+        "IIoT"
+      ],
+      "languages": [
+        "English"
+      ],
+      "languagesWithProficiency": [
+        {
+          "language": "English"
+        }
+      ],
+      "recommendations": {
+        "recommendationsCount": 0,
+        "recommendationHistory": []
+      },
+      "certifications": {
+        "certificationsCount": 0,
+        "certificationHistory": []
+      },
+      "testScores": {
+        "testScoresCount": 0,
+        "testScoreHistory": []
+      },
+      "volunteeringExperiences": {
+        "volunteeringExperiencesCount": 0,
+        "volunteeringExperienceHistory": []
+      },
+      "interests": {}
+    },
+    "company": {
+      "linkedInId": "74138356",
+      "name": "Dhvani Analytic Intelligence",
+      "universalName": "dhvani-analytic-intelligence",
+      "linkedInUrl": "https://www.linkedin.com/company/74138356",
+      "employeeCount": 26,
+      "followerCount": 1131,
+      "employeeCountRange": {
+        "start": 11,
+        "end": 50
+      },
+      "websiteUrl": "https://www.dhvaniai.com",
+      "tagline": "Delivering NDE 4.0 with AI.",
+      "description": "Dhvani AI focus is on NDE 4.0, which is a subset of Industry 4.0. We aim to provide software intelligence for data analysis and interpretation aspect of NDE tasks to enable industries to quickly comprehend highly complex data and make well informed data driven decisions. We have developed AI and ML powered solutions in radiology, ultrasonics, vision and MPI to assess industrial and structural components such as welds, aluminium castings, and shipbuilding structures.",
+      "industry": "Technology, Information and Internet",
+      "phone": null,
+      "specialities": [
+        "Non-destructive Testing",
+        "Manufacturing Diagnostics",
+        "Simulation and Visualization tools",
+        "Automatic Defect Recognition",
+        "Digital twins",
+        "Digitization",
+        "Digitalization",
+        "NDE 4.0",
+        "Artificial Intelligence",
+        "Industrial Automation"
+      ],
+      "headquarter": {
+        "city": "chennai",
+        "country": "IN",
+        "postalCode": "600113",
+        "geographicArea": "Tamil Nadu",
+        "street1": "01J, First Floor",
+        "street2": "IIT Madras Research Park"
+      },
+      "logo": "https://media.licdn.com/dms/image/v2/D560BAQEMsonZHnU0iw/company-logo_400_400/company-logo_400_400/0/1686904538074/dhvani_analytic_intelligence_logo?e=1749686400&v=beta&t=L8pYD5aSpPx0WZr3z7sCGzBxxY0Z6-DXRpVV-onGqjc",
+      "fundingData": null,
+      "backgroundUrl": "https://media.licdn.com/dms/image/v2/D561BAQEJ5EA3cSYsaw/company-background_10000/company-background_10000/0/1686906069296/dhvani_analytic_intelligence_cover?e=1744974000&v=beta&t=gfM9P4gEIILqMopLUWGiBZmQ0iCaQG1gIJfCNLgVgw4"
+    }
+  }
