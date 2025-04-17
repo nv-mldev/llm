@@ -16,14 +16,14 @@ from tools.tools import get_profile_url_tavily
 load_dotenv()
 
 
-def lookup(name: str, place: str) -> str:
+def lookup(name: str) -> str:
     llm = ChatOpenAI(temperature=0, model="gpt-4o-mini")
 
-    template = """given the full_name {name_of_person} and place {place}I want you to get me a link of their Linkedin profile page. 
+    template = """given the full_name {name_of_person} I want you to get me a link of their Linkedin profile page. 
     Your answer should contain only a URL"""
 
     template_prompt = PromptTemplate(
-        template=template, input_variables=["name_of_person", "place"]
+        template=template, input_variables=["name_of_person"]
     )
 
     tools_for_agent = [
@@ -41,10 +41,11 @@ def lookup(name: str, place: str) -> str:
     agent_executor = AgentExecutor(agent=agent, tools=tools_for_agent, verbose=True)
 
     result = agent_executor.invoke(
-        input={"input": template_prompt.format_prompt(name_of_person=name, place=place)}
+        input={"input": template_prompt.format_prompt(name_of_person=name)}
     )
 
     linkedin_url = result["output"]
+    print(linkedin_url)
 
     return linkedin_url
 
